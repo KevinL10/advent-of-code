@@ -14,4 +14,4 @@ dayN/
 | Day                                 | Status   | Solution                           | Rank (Parts 1/2)       |
 | -----------                        | ---------| --------                            | ---------   |
 | [🎄 Day 1: Sonar Sweep](day1)      | ⭐⭐    | [🎯 Day 1](day1/solution.md)       | [50 / 29](https://adventofcode.com/2021/leaderboard/day/1)    |
-| [🎄 Day 2](day2)                   |          | [🎯 Day 2](day2/solution.md)       | ~~ / ~~     |
+| [🎄 Day 2: Dive!](day2)            | ⭐⭐    | [🎯 Day 2](day2/solution.md)       | 362 / 125     |
