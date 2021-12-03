@@ -9,4 +9,4 @@ Simple implementation, keeping track of the horizontal position and depth.
 Similar to Part 1, but introducing a third variable `aim`.
 
 ### Thoughts
-Didn't read carefully and thought that `down` would be subtracting depth... ended up submitting the negative of the actual answer.
+Didn't read carefully and thought that `down` would be subtracting depth... ended up submitting the negative of the actual answer :(
