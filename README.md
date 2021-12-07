@@ -10,7 +10,7 @@ dayN/
 ├─ solution.md
 ```
 
-## Progress (12/50)
+## Progress (14/50)
 | Day                                    | Status   | Solution                           | Rank (Parts 1/2)       |
 | -----------                           | ---------| --------                            | ---------   |
 | [🎄 Day 1: Sonar Sweep](day1)         | ⭐⭐    | [🎯 Day 1](day1/solution.md)       | [50 / 29](https://adventofcode.com/2021/leaderboard/day/1)    |
@@ -19,3 +19,4 @@ dayN/
 | [🎄 Day 4: Giant Squid](day4)         | ⭐⭐    | [🎯 Day 4](day4/solution.md)       | 437 / 301 |
 | [🎄 Day 5: Hydrothermal Venture](day5)         | ⭐⭐    | [🎯 Day 5](day5/solution.md)       | ~~ / ~~ |
 | [🎄 Day 6: Lanternfish](day6)         | ⭐⭐    | [🎯 Day 6](day6/solution.md)       | ~~ / ~~ |
+| [🎄 Day 7: The Treachery of Whales](day7)   | ⭐⭐    | [🎯 Day 7](day7/solution.md)  | [35 / 59](https://adventofcode.com/2021/leaderboard/day/7)     |
