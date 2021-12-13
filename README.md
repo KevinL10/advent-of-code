@@ -10,7 +10,7 @@ dayN/
 ├─ solution.md
 ```
 
-## Progress (22/50)
+## Progress (26/50)
 | Day                                    | Status   | Solution                           | Rank (Parts 1/2)       |
 | -----------                           | ---------| --------                            | ---------   |
 | [🎄 Day 1: Sonar Sweep](day1)         | ⭐⭐    | [🎯 Day 1](day1/solution.md)       | [50 / 29](https://adventofcode.com/2021/leaderboard/day/1)    |
@@ -24,3 +24,5 @@ dayN/
 | [🎄 Day 9: Smoke Basin](day9)   | ⭐⭐    | [🎯 Day 9](day9/solution.md)  | [91 / 88](https://adventofcode.com/2021/leaderboard/day/9)     |
 | [🎄 Day 10: Syntax Scoring](day10)   | ⭐⭐    | [🎯 Day 10](day10/solution.md)  | 239 / 134 |
 | [🎄 Day 11: Dumbo Octopus](day11)   | ⭐⭐    | [🎯 Day 11](day11/solution.md)  | 894 / 767 |
+| [🎄 Day 12: Passage Pathing](day12)   | ⭐⭐    | [🎯 Day 12](day12/solution.md)  | 225 / 467 |
+| [🎄 Day 13: Transparent Origami](day13)   | ⭐⭐    | [🎯 Day 13](day13/solution.md)  | [85 / 908](https://adventofcode.com/2021/leaderboard/day/13) |
