@@ -10,7 +10,7 @@ dayN/
 ├─ solution.md
 ```
 
-## Progress (26/50)
+## Progress (30/50)
 | Day                                    | Status   | Solution                           | Rank (Parts 1/2)       |
 | -----------                           | ---------| --------                            | ---------   |
 | [🎄 Day 1: Sonar Sweep](day1)         | ⭐⭐    | [🎯 Day 1](day1/solution.md)       | [50 / 29](https://adventofcode.com/2021/leaderboard/day/1)    |
@@ -27,3 +27,4 @@ dayN/
 | [🎄 Day 12: Passage Pathing](day12)   | ⭐⭐    | [🎯 Day 12](day12/solution.md)  | 225 / 467 |
 | [🎄 Day 13: Transparent Origami](day13)   | ⭐⭐    | [🎯 Day 13](day13/solution.md)  | [85 / 908](https://adventofcode.com/2021/leaderboard/day/13) |
 | [🎄 Day 14: Extended Polymerization](day14)   | ⭐⭐    | [🎯 Day 14](day14/solution.md)  | [58 / 232](https://adventofcode.com/2021/leaderboard/day/14) |
+| [🎄 Day 15: Chiton](day15)   | ⭐⭐    | [🎯 Day 15](day15/solution.md)  | 231 / 891 |
