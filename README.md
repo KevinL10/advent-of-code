@@ -10,7 +10,7 @@ dayN/
 ├─ solution.md
 ```
 
-## Progress (34/50)
+## Progress (40/50)
 | Day                                    | Status   | Solution                           | Rank (Parts 1/2)       |
 | -----------                           | ---------| --------                            | ---------   |
 | [🎄 Day 1: Sonar Sweep](day1)         | ⭐⭐    | [🎯 Day 1](day1/solution.md)       | [50 / 29](https://adventofcode.com/2021/leaderboard/day/1)    |
@@ -30,3 +30,6 @@ dayN/
 | [🎄 Day 15: Chiton](day15)   | ⭐⭐    | [🎯 Day 15](day15/solution.md)  | 231 / 891 |
 | [🎄 Day 16: Packet Decoder](day16)  | ⭐⭐    | [🎯 Day 16](day16/solution.md) | 495 / 588 |
 | [🎄 Day 17: Trick Shot](day17)   | ⭐⭐    | [🎯 Day 17](day17/solution.md)  | [130 / 47](https://adventofcode.com/2021/leaderboard/day/17) |
+| [🎄 Day 18: Snailfish](day18)   | ⭐⭐    | [🎯 Day 18](day18/solution.md)  | 359 / 395 |
+| [🎄 Day 19: Beacon Scanner](day19)   | ⭐⭐    | [🎯 Day 19](day19/solution.md)  | ~~ / ~~ |
+| [🎄 Day 20: Trick Shot](day20)   | ⭐⭐    | [🎯 Day 20](day20/solution.md)  | [77 / 134](https://adventofcode.com/2021/leaderboard/day/20) |
