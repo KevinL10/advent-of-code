@@ -33,3 +33,4 @@ dayN/
 | [🎄 Day 18: Snailfish](day18)   | ⭐⭐    | [🎯 Day 18](day18/solution.md)  | 359 / 395 |
 | [🎄 Day 19: Beacon Scanner](day19)   | ⭐⭐    | [🎯 Day 19](day19/solution.md)  | ~~ / ~~ |
 | [🎄 Day 20: Trick Shot](day20)   | ⭐⭐    | [🎯 Day 20](day20/solution.md)  | [77 / 134](https://adventofcode.com/2021/leaderboard/day/20) |
+| [🎄 Day 21: Dirac Dice](day21)   | ⭐⭐    | [🎯 Day 21](day21/solution.md)  | 163 / 161 |
