@@ -10,7 +10,7 @@ dayN/
 ├─ solution.md
 ```
 
-## Progress (40/50)
+## Progress (45/50)
 | Day                                    | Status   | Solution                           | Rank (Parts 1/2)       |
 | -----------                           | ---------| --------                            | ---------   |
 | [🎄 Day 1: Sonar Sweep](day1)         | ⭐⭐    | [🎯 Day 1](day1/solution.md)       | [50 / 29](https://adventofcode.com/2021/leaderboard/day/1)    |
@@ -34,3 +34,5 @@ dayN/
 | [🎄 Day 19: Beacon Scanner](day19)   | ⭐⭐    | [🎯 Day 19](day19/solution.md)  | ~~ / ~~ |
 | [🎄 Day 20: Trick Shot](day20)   | ⭐⭐    | [🎯 Day 20](day20/solution.md)  | [77 / 134](https://adventofcode.com/2021/leaderboard/day/20) |
 | [🎄 Day 21: Dirac Dice](day21)   | ⭐⭐    | [🎯 Day 21](day21/solution.md)  | 163 / 161 |
+| 🎄 Day 22: Reactor Reboot [TBA]  | ⭐    | 🎯 Day 22 [TBA]  | ~~ / ~~ |
+| [🎄 Day 23: Amphipod](day23)   | ⭐⭐    | [🎯 Day 23](day23/solution.md)  | [38 / 140](https://adventofcode.com/2021/leaderboard/day/23) |
