@@ -10,7 +10,7 @@ dayN/
 ├─ solution.md
 ```
 
-## Progress (48/50)
+## Progress ⭐(50/50)
 | Day                                    | Status   | Solution                           | Rank (Parts 1/2)       |
 | -----------                           | ---------| --------                            | ---------   |
 | [🎄 Day 1: Sonar Sweep](day1)         | ⭐⭐    | [🎯 Day 1](day1/solution.md)       | [50 / 29](https://adventofcode.com/2021/leaderboard/day/1)    |
@@ -37,3 +37,5 @@ dayN/
 | 🎄 Day 22: Reactor Reboot [TBA]  | ⭐⭐   | 🎯 Day 22 [TBA]  | ~~ / ~~ |
 | [🎄 Day 23: Amphipod](day23)   | ⭐⭐    | [🎯 Day 23](day23/solution.md)  | [38 / 140](https://adventofcode.com/2021/leaderboard/day/23) |
 | [🎄 Day 24: Arithmetic Logic Unit](day24)   | ⭐⭐    | [🎯 Day 24](day24/solution.md)  | [46 / 73](https://adventofcode.com/2021/leaderboard/day/24) |
+| [🎄 Day 25: Sea Cucumber](day25)   | ⭐⭐    | [🎯 Day 25](day25/solution.md)  | 350 / 294 |
+🎄 Final Rank: [102](https://freedomofkeima.github.io/aoc-ranking/)
