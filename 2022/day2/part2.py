@@ -1,5 +1,6 @@
+with open("input.txt", "r") as f:
+    data = f.read()
 
-data = open("input.txt").read()
 score = 0
 for l in data.split("\n"):
     opp, you = l.split()

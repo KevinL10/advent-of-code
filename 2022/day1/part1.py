@@ -2,8 +2,8 @@ from collections import defaultdict
 import sys
 
 
-data = open("input.txt").read()
-
+with open("input.txt", "r") as f:
+    data = f.read()
 
 cmax = 0
 s = 0

@@ -1,6 +1,5 @@
-
-
-data = open("input.txt").read()
+with open("input.txt", "r") as f:
+    data = f.read()
 
 score = 0
 for l in data.split("\n"):
