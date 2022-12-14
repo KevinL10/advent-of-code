@@ -10,7 +10,7 @@ dayN/
 ├─ solution.md
 ```
 
-## Progress ⭐(24/50)
+## Progress ⭐(28/50)
 | Day                                    | Status   | Solution                           | Rank (Parts 1/2)       |
 | -----------                           | ---------| --------                            | ---------   |
 | [🎄 Day 1: Calorie Counting](2022/day1)       | ⭐⭐    | [🎯 Day 1](2022/day1/solution.md)   | 142 / 187  |
@@ -25,3 +25,5 @@ dayN/
 | [🎄 Day 10: Cathode-Ray Tube](2022/day10) | ⭐⭐    | [🎯 Day 10](2022/day10/solution.md)  | ~~ / ~~  |
 | [🎄 Day 11: Monkey in the Middle](2022/day11) | ⭐⭐    | [🎯 Day 11](2022/day11/solution.md)  | 119 / 118  |
 | [🎄 Day 12: Hill Climbing Algorithm](2022/day12) | ⭐⭐    | [🎯 Day 12](2022/day12/solution.md)  | 332 / 211  |
+| [🎄 Day 13: Distress Signal](2022/day13) | ⭐⭐    | [🎯 Day 13](2022/day13/solution.md)  | 237 / 1146  |
+| [🎄 Day 14: Regolith Reservoir](2022/day14) | ⭐⭐    | [🎯 Day 14](2022/day14/solution.md)  | 160 / 120  |
