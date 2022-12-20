@@ -27,3 +27,9 @@ dayN/
 | [🎄 Day 12: Hill Climbing Algorithm](2022/day12) | ⭐⭐    | [🎯 Day 12](2022/day12/solution.md)  | 332 / 211  |
 | [🎄 Day 13: Distress Signal](2022/day13) | ⭐⭐    | [🎯 Day 13](2022/day13/solution.md)  | 237 / 1146  |
 | [🎄 Day 14: Regolith Reservoir](2022/day14) | ⭐⭐    | [🎯 Day 14](2022/day14/solution.md)  | 160 / 120  |
+| [🎄 Day 15: Beacon Exclusion Zone](2022/day15) | ⭐⭐    | [🎯 Day 15](2022/day15/solution.md)  | ~~ / ~~  |
+| [🎄 Day 16: Proboscidea Volcanium](2022/day16) | ⭐⭐    | [🎯 Day 16](2022/day16/solution.md)  | ~~ / ~~  |
+| [🎄 Day 17: Pyroclastic Flow](2022/day17) | ⭐⭐    | [🎯 Day 17](2022/day17/solution.md)  | ~~ / ~~  |
+| [🎄 Day 18: Boiling Boulders](2022/day18) | ⭐⭐    | [🎯 Day 18](2022/day18/solution.md)  | ~~ / ~~  |
+| [🎄 Day 19: Not Enough Minerals](2022/day19) | ⭐⭐    | [🎯 Day 19](2022/day19/solution.md)  | [40 / 157](https://adventofcode.com/2022/leaderboard/day/19)  |
+| [🎄 Day 20: Grove Positioning System](2022/day20) | ⭐⭐    | [🎯 Day 20](2022/day20/solution.md)  | [73 / 34](https://adventofcode.com/2022/leaderboard/day/20) |
