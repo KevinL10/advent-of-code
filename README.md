@@ -10,7 +10,7 @@ dayN/
 ├─ solution.md
 ```
 
-## Progress ⭐(28/50)
+## Progress ⭐(50/50)
 | Day                                    | Status   | Solution                           | Rank (Parts 1/2)       |
 | -----------                           | ---------| --------                            | ---------   |
 | [🎄 Day 1: Calorie Counting](2022/day1)       | ⭐⭐    | [🎯 Day 1](2022/day1/solution.md)   | 142 / 187  |
@@ -33,3 +33,9 @@ dayN/
 | [🎄 Day 18: Boiling Boulders](2022/day18) | ⭐⭐    | [🎯 Day 18](2022/day18/solution.md)  | ~~ / ~~  |
 | [🎄 Day 19: Not Enough Minerals](2022/day19) | ⭐⭐    | [🎯 Day 19](2022/day19/solution.md)  | [40 / 157](https://adventofcode.com/2022/leaderboard/day/19)  |
 | [🎄 Day 20: Grove Positioning System](2022/day20) | ⭐⭐    | [🎯 Day 20](2022/day20/solution.md)  | [73 / 34](https://adventofcode.com/2022/leaderboard/day/20) |
+| [🎄 Day 21: Monkey Math](2022/day21) | ⭐⭐    | [🎯 Day 21](2022/day21/solution.md)  | [78 / 672](https://adventofcode.com/2022/leaderboard/day/21) |
+| [🎄 Day 22: Monkey Map](2022/day22) | ⭐⭐    | [🎯 Day 22](2022/day22/solution.md)  | ~~ / ~~ |
+| [🎄 Day 23: Unstable Diffusion](2022/day23) | ⭐⭐    | [🎯 Day 23](2022/day23/solution.md)  | ~~ / ~~ |
+| [🎄 Day 24: Blizzard Basin](2022/day24) | ⭐⭐    | [🎯 Day 24](2022/day24/solution.md)  | ~~ / ~~ |
+| [🎄 Day 25: Full of Hot Air](2022/day25) | ⭐⭐    | [🎯 Day 25](2022/day25/solution.md)  | 476 / 404 |
+🎄 **Final Rank: [146](https://freedomofkeima.github.io/aoc-ranking/)**
